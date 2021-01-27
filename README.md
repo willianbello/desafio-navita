@@ -1,4 +1,7 @@
 # desafio-navita
+realizar desafio de desenvolver um mvp seguindo template.
+
+pequena alteração na forma de mostrar os modelos, pois a lista de marcas é grande e ficaria melhor se fosse utilizado modal para exibição dos modelos.
 
 ## Project setup
 ```
